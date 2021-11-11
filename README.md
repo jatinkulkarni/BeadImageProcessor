@@ -1,5 +1,5 @@
 # BeadImageProcessor
-The Bead Image Processor is a project we (Humberto Torralba, Manuel Torralba, Jatin Kulkarni, and Anthony Ceja) submitted to HackTX 2021.
+The Bead Image Processor is a project we (Humberto Torralba, Manuel Torralba, Jatin Kulkarni, and Anthony Ceja) submitted to HackTX 2021 in which we won the Hardware Hack Category.
 
 Currently a user can upload an image of a bead pattern they want to loom and specify the number of repititions for the project.
 The Java program parses through the image and creates an array of the colors in the correct order needed to loom.
